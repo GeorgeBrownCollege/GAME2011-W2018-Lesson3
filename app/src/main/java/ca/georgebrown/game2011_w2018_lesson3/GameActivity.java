@@ -21,6 +21,7 @@ public class GameActivity extends AppCompatActivity implements View.OnTouchListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        // this thing doesn't work yet
 
         this._ourView = (ImageView)findViewById(R.id.canvasContainer);
 
